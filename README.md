@@ -2,4 +2,4 @@
 cos nowego znowu
 new line 
 new line line 
-new line XXX 
+int x = 5;

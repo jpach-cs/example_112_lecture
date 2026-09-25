@@ -1,2 +1,2 @@
-"# example_112_lecture" 
+# example_112_lecture
 cos nowego znowu
